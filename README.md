@@ -8,3 +8,4 @@ write a code by using 3 methods of string in java
 write  a java code by spliting a sentence  into word and then rebuilt it in new format
 java code for fibonacci with recursion
 write java code for selection sort and insertion sort
+java code for counting vowels in string
