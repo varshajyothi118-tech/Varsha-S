@@ -16,3 +16,4 @@ write java code for method overidding a string where each class inherts to strin
 write a java code to implement the abraction by using shapes and 2 sub classes which can have the fuctionality in different ways
 java code for managing a To Do list adding removing and iterating over a simple arraylist of tasks
 java code for accessing and removing elements in a linkedlist by using its operations
+write a java code by using try,catch,finally,block for any arthimetic exception or array index out of bound exception
