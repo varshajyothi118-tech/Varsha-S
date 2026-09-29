@@ -18,3 +18,4 @@ java code for managing a To Do list adding removing and iterating over a simple 
 java code for accessing and removing elements in a linkedlist by using its operations
 write a java code by using try,catch,finally,block for any arthimetic exception or array index out of bound exception
 java code for finding the largest element in an array
+java code for create a class which can shared by two objects(student) for name and marks in a subject
