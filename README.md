@@ -19,3 +19,4 @@ java code for accessing and removing elements in a linkedlist by using its opera
 write a java code by using try,catch,finally,block for any arthimetic exception or array index out of bound exception
 java code for finding the largest element in an array
 java code for create a class which can shared by two objects(student) for name and marks in a subject
+given an array of integers return the number of distinct absolute values among the elements of the array absolute of any value is defined as its positive equivalent ABS(-5)=505 MATHEMATICALLY |-5|=|5|=1
